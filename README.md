@@ -5,6 +5,6 @@
 - 📫 How to reach me is by emailing clairenyagi96@gmail.com 
 
 <!---
-claremuhonja/claremuhonja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+claremuhonja/claremuhonja is a lady with no background in IT but is looking to gain skills in web development and data science.
 You can click the Preview link to take a look at your changes.
 --->
